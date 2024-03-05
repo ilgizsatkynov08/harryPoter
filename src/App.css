@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.container{
+  width: 1240px;
+  margin: 0 auto;
+  margin-top: 7pc;
+}
+.wero {
+  width: 250px;
+}
+.home {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2pc;
+}
+.asema {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.asema img{
+margin-left: 5pc;
+margin-top: 2pc;
+}
